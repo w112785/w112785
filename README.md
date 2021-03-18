@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @w112785
+- 👋 Hi, I’m William McCormick
 - 👀 I’m interested in Photography and Arduino / Raspberry Pi development
-- 🌱 I’m currently learning C/C++ (refreshing on it)
+- 🌱 I’m currently relearning C/C++, as well as working on Python Projects
+- 📸 Currently working on creating a photobooth with a Raspberry Pi and the Pi Camera. Project will be open source and avalible on GitHub
 - 📫 How to reach me Message me or email.
 
 <!---
